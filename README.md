@@ -34,6 +34,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangg-anh&show_icons=true&theme=radical](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangg-anh&theme=darcula" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangg-anh&layout=compact&theme=radical](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangg-anh&theme=darcula" height="160px" />
+  <!-- Profile summary card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangg-anh&theme=darcula" />
+  <!-- Repos per language -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangg-anh&theme=darcula" />
 </p>
+
