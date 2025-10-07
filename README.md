@@ -35,5 +35,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quangg-anh&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangg-anh&layout=compact&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangg-anh&layout=compact&theme=radical" height="160px" />
 </p>
