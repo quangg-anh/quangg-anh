@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Quang Anh
 
-<!--
-**quangg-anh/quangg-anh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m passionate about:
+- Backend development (Node.js, Express, MySQL)
+- Automation & Network scanning
+- Cloudflare, VPS, Linux system administration
 
-Here are some ideas to get you started:
+📊 Current projects:
+- 🐧 Telegram bot for server monitoring
+- 🌐 Cloudflare Worker + Highcharts for Nginx real-time stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: [Telegram](https://t.me/quangganh)
+![Profile views](https://komarev.com/ghpvc/?username=quangg-anh&color=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=quangg-anh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangg-anh&layout=compact)
