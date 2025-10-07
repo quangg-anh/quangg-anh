@@ -37,6 +37,6 @@
   <!-- Profile summary card -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangg-anh&theme=darcula" />
   <!-- Repos per language -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangg-anh&theme=darcula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangg-anh&layout=compact&theme=radical" />
 </p>
 
