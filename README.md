@@ -55,16 +55,8 @@ Currently deep in AI tooling, automation scripting, and hands-on experimentation
 
 ### 📊 GitHub Analytics
 
-<!-- Lưu ý: github-readme-stats.vercel.app là instance công khai, đôi lúc bị rate-limit vào giờ cao điểm.
-     Nếu ảnh không hiện, đợi vài phút hoặc tự host theo hướng dẫn tại:
-     https://github.com/anuraghazra/github-readme-stats#-deploy-on-your-own -->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quangg-anh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangg-anh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400"/>
-
 <img width="90%" src="https://streak-stats.demolab.com/?user=quangg-anh&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=quangg-anh&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" alt="Trophy"/>
 
 </div>
 
@@ -92,17 +84,8 @@ Reverse proxy middleware for LLM request routing and caching. Combines semantic 
 ![Static Badge](https://img.shields.io/badge/GGUF-333333?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Self--Hosted%20LLM-333333?style=flat-square)
 
-A self-hosted AI gateway serving a Gemma 4 12B GGUF model on a high-VRAM GPU, exposed to the internet through a Cloudflare Quick Tunnel — configured for Postman-based testing and custom context-window setups.
+A self-hosted AI gateway serving a Large model on a high-VRAM GPU, exposed to the internet through a Cloudflare Quick Tunnel — configured for Postman-based testing and custom context-window setups.
 
-#### 🤖 Quỳnh Anh <sub>("Lyno")</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Facebook%20%2F%20Messenger%20Bot-333333?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Web%20Search%20Fallback-333333?style=flat-square)
-
-A Python-based Facebook/Messenger selfbot for a group chat, with structured intent detection for when to trigger a web search, and a resilient `WebSearchService` — BeautifulSoup parsing, retry logic, and a DuckDuckGo → Brave → Serper.dev fallback chain.
-
----
 
 <div align="center">
 
