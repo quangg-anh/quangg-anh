@@ -68,32 +68,6 @@
 
 <div align="center">
 
-### 🚀 Featured Projects
-
-</div>
-
-#### 🧠 9Router Cache Shield <sub>(9R-Shield)</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GPTCache-333333?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Multi--LLM%20Routing-333333?style=flat-square)
-
-Reverse proxy middleware for LLM request routing and caching. Combines semantic and exact-match caching (GPTCache + Redis) with token-budget management across multiple upstream providers — Claude, GPT-4, Gemini, and DeepSeek.
-
-#### ⚙️ Local AI Gateway <sub>(gateway.py)</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GGUF-333333?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Self--Hosted%20LLM-333333?style=flat-square)
-
-A self-hosted AI gateway serving a Large model on a high-VRAM GPU, exposed to the internet through a Cloudflare Quick Tunnel — configured for Postman-based testing and custom context-window setups.
-
----
-
-<div align="center">
-
 ### 📫 Let's Connect
 
 <a href="https://t.me/quangganh" target="_blank">
