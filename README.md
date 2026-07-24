@@ -15,20 +15,6 @@
 
 ---
 
-<div align="center">
-
-### 👨‍💻 About Me
-
-</div>
-
-| | |
-|---|---|
-| 🧠 **Focus** | AI infrastructure, automation, chatbot systems |
-| ⚙️ **Building** | LLM request routers, self-hosted model gateways |
-| 🌱 **Currently** | Deep in AI tooling, automation scripting, hands-on LLM experimentation |
-| 🗣️ **Languages** | Vietnamese & English (technical contexts) |
-
----
 
 <div align="center">
 
