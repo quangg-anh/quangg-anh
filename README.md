@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Infrastructure+%26+Automation+Builder;Python+%7C+LLM+Routing%2C+Caching+%26+Local+Gateways;Building+bots%2C+routers+%26+tools+that+just+work" alt="Typing SVG" />
 </a>
+
+<br/>
+
+![Followers](https://img.shields.io/github/followers/quangg-anh?style=for-the-badge&color=58A6FF&logo=github&logoColor=white&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=quangg-anh&label=Profile%20Views&color=58A6FF&style=for-the-badge)
 
 </div>
 
@@ -14,11 +19,14 @@
 
 ### 👨‍💻 About Me
 
-Building AI infrastructure, automation, and chatbot systems — from LLM request routers to self-hosted model gateways.
-Comfortable working across both **Vietnamese** and **English** technical contexts.
-Currently deep in AI tooling, automation scripting, and hands-on experimentation with large language models.
-
 </div>
+
+| | |
+|---|---|
+| 🧠 **Focus** | AI infrastructure, automation, chatbot systems |
+| ⚙️ **Building** | LLM request routers, self-hosted model gateways |
+| 🌱 **Currently** | Deep in AI tooling, automation scripting, hands-on LLM experimentation |
+| 🗣️ **Languages** | Vietnamese & English (technical contexts) |
 
 ---
 
@@ -47,6 +55,13 @@ Currently deep in AI tooling, automation scripting, and hands-on experimentation
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**LLM Providers Routed**
+
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+
 </div>
 
 ---
@@ -55,8 +70,22 @@ Currently deep in AI tooling, automation scripting, and hands-on experimentation
 
 ### 📊 GitHub Analytics
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=quangg-anh&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=quangg-anh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=quangg-anh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&layout=donut&langs_count=8"/>
+</td>
+</tr>
+</table>
 
+<img width="100%" src="https://streak-stats.demolab.com/?user=quangg-anh&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=quangg-anh&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=quangg-anh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
@@ -86,6 +115,7 @@ Reverse proxy middleware for LLM request routing and caching. Combines semantic 
 
 A self-hosted AI gateway serving a Large model on a high-VRAM GPU, exposed to the internet through a Cloudflare Quick Tunnel — configured for Postman-based testing and custom context-window setups.
 
+---
 
 <div align="center">
 
@@ -100,8 +130,5 @@ A self-hosted AI gateway serving a Large model on a high-VRAM GPU, exposed to th
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=quangg-anh&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+</div>
