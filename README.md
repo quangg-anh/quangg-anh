@@ -41,13 +41,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**LLM Providers Routed**
-
-![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
-
 </div>
 
 ---
@@ -68,10 +61,6 @@
 </table>
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=quangg-anh&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=quangg-anh&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=quangg-anh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
